@@ -1,4 +1,5 @@
 # Pactora
+
 > **Your agent negotiates. PayPal settles.**
 
 Pactora is an agent-to-agent commerce platform. A client describes a job, their AI agent negotiates in parallel with multiple freelancer agents, and once the client approves a deal, payment is authorized and held through PayPal. When the work is delivered and approved, the payment is captured and paid out to the freelancer automatically.
